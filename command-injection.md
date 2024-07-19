@@ -15,3 +15,7 @@ Em um site para pesquisa de hospedagem de URL, se tiver essa falha, você conseg
 Com esses comandos, você vai ter acesso a arquivos confidenciais do banco de dados daquela URL.
 
 O usuário pode tanto consultar arquivos, como adicionar arquivos ao banco de dados, usando a mesma forma, como esse exemplo: <mark style="color:yellow;">caveiratech.com && touch teste.php</mark>&#x20;
+
+
+
+<mark style="color:red;">**TODA ESSA ATIVIDADE FOI FEITA NO LABORATÓRIO CONTROLADO DA SOLYD MULTILLIDAE**</mark>
